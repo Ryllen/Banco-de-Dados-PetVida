@@ -50,7 +50,7 @@ Abra o terminal na pasta do projeto e execute:
 ```bash
 python main.py
 ```
-O menu do sistema ser´´a apresentado no terminal.
+O menu do sistema será apresentado no terminal.
 
 ## Funcionalidades
 O projeto possui operações para:
